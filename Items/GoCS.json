@@ -1,0 +1,41 @@
+{
+	"item": [
+		{
+			"name": "Gauntlets of Cask Strength",
+			"source": "RiseofsynEGY",
+			"page": 0,
+			"rarity": "uncommon",
+			"reqAttune": true,
+			"wondrous": true,
+			"entries": [
+				"Your Strength score is 17 while you wear these gauntlets. They have no effect on you if your Strength is already 17 or higher without them.",
+				{
+					"type": "entries",
+					"name": "Code Red - Awakened",
+					"entries": [
+						"Once the Gauntlets Awaken, they gain the following benefits:",
+						{
+							"type": "list",
+							"items": [
+								"Your Strength score is now 18 while you wear these gauntlets. They have no effect on you if your Strength is already 18 or higher without them."
+							]
+						}
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Code White - Ascended",
+					"entries": [
+						"Once the Gauntlets Ascend, they gain the following benefits:",
+						{
+							"type": "list",
+							"items": [
+								"Your Strength score is now 19 while you wear these gauntlets. They have no effect on you if your Strength is already 19 or higher without them."
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

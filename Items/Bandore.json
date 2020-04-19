@@ -1,0 +1,62 @@
+{
+	"item": [
+		{
+			"name": "Barwood's Bandore",
+			"source": "",
+			"page": 0,
+			"rarity": "uncommon",
+			"reqAttune": "by a bard",
+			"wondrous": true,
+			"entries": [
+				"2 lb.",
+				"An instrument of the bards is an exquisite example of its kind, superior to an ordinary instrument in every way. Seven types of these instruments exist, each named after a legendary bard college.",
+				{
+					"type": "entries",
+					"name": "Dormant",
+					"entries": [
+						"A creature that attempts to play the instrument without being attuned to it must succeed on a DC 15 Wisdom saving throw or take {@damage 1d12} psychic damage.",
+						"The instrument stores up to 4 to charges. You can use an action to expend a charge to play the instrument and cast one of its spells. Once the instrument has been used to cast a spell, it can't be used to cast that spell again until the next dawn when it regains up to 4 charges. The spells use your spellcasting ability and spell save DC.",
+						"After expending a charge, you must make a DC 5 saving throw. On a failed save, the instrument is now out of tune. You must spend an action to retune the instrument before it can expend another charge.",
+						"You can play the instrument while casting a spell that causes any of its targets to be {@condition charmed} on a failed saving throw, thereby increasing the spell save DC by +1. This effect applies only if the spell has a somatic or a material component.",
+						"All instruments of the bards can be used to cast the following spells: {@spell invisibility} and {@spell protection from evil and good}.",
+						"In addition, the Fochlucan bandore can be used to cast {@spell entangle}, {@spell faerie fire}, {@spell shillelagh}, and {@spell speak with animals}."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Awakened",
+					"entries": [
+						"Once Barwood's Bandore reaches an awakened state, it gains the following benefits:",
+						{
+							"type": "list",
+							"items": [
+								"Damage for failed DC for un-attuned playing increases to {@dice 2d12}",
+								"Regains up to 6 charges at dawn (increased from 4)",
+								"{@spell Levitate} added to spells that can be cast through Bandore",
+								"DC to avoid de-tuning the Bandore after expending a charge lowers from DC 5 to DC 2",
+								"Buff to DC of Charm spells cast through the Bandore increased from +1 to +2"
+							]
+						}
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Ascended",
+					"entries": [
+						"Once Barwood's Bandore reaches an awakened state, it gains the following benefits:",
+						{
+							"type": "list",
+							"items": [
+								"Damage for failed DC for un-attuned playing increases to {@dice 4d12}",
+								"Regains up to 8 charges at dawn (increased from 6)",
+								"{@spell Fly} added to spells that can be cast through Bandore",
+								"DC to avoid de-tuning the Bandore after expending a charge lowers from DC 5 to DC 2",
+								"Buff to DC of Charm spells cast through the Bandore increased from +2 to disadvantage"
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}
