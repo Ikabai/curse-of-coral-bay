@@ -1,21 +1,25 @@
 {
-    "name":"Birdman's Big Basher"
-    ,"source":"JSR"
-    ,"page":179
-    ,"srd":true
-    ,"baseItem":"mace|phb"
-    ,"type":"M"
-    ,"tier":"major"
-    ,"rarity":"rare"
-    ,"reqAttune":true
-    ,"weight":10
-    ,"weaponCategory":"simple"
-    ,"bonusWeapon":"+3"
-    ,"dmg1":"1d8"
-    ,"dmgType":"B"
-    ,"dmg2":"1d6"
-    ,"dmgType":"R"
-    ,"entries":[
-        "This imposing golden mace crackles with divine energy and gives a off a faint aroma of fried chicken."
-        ]
-    }
+"item": [
+		{
+		"name":"Birdman's Big Basher"
+		,"source":"JSR"
+		,"page":179
+		,"srd":true
+		,"baseItem":"mace|phb"
+		,"type":"M"
+		,"tier":"major"
+		,"rarity":"rare"
+		,"reqAttune":true
+		,"weight":10
+		,"weaponCategory":"simple"
+		,"bonusWeapon":"+3"
+		,"dmg1":"1d8"
+		,"dmgType":"B"
+		,"dmg2":"1d6"
+		,"dmgType":"R"
+		,"entries":[
+			"This imposing golden mace crackles with divine energy and gives a off a faint aroma of fried chicken."
+			]
+		}
+	]
+	}
